@@ -2,7 +2,7 @@
 
 | #    | Title |
 | ---- | ----- |
-| 03_01 | [Find Duplication In Array](/剑指offer/Java/03_01_DuplicationInArray)       |
+| 03_01 | [找出数组中的重复数字](/剑指offer/Java/03_01_DuplicationInArray)|
 
 
 
