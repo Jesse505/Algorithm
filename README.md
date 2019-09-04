@@ -12,3 +12,4 @@
 | 10_04 | [矩形覆盖](/剑指offer/Java/10_04_RectCover) |
 | 11 | [旋转数组中的最小数字](/剑指offer/Java/11_MinNumberInRotatedArray) |
 | 13 | [机器人的运动范围(回溯法)](/剑指offer/Java/13_RobotMove) |
+| 14 | [剪绳子(动态规划、贪婪法)](/剑指offer/Java/14_CuttingRope) |
