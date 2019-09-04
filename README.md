@@ -11,3 +11,4 @@
 | 10_03 | [变态跳台阶](/剑指offer/Java/10_03_JumpFloorII) |
 | 10_04 | [矩形覆盖](/剑指offer/Java/10_04_RectCover) |
 | 11 | [旋转数组中的最小数字](/剑指offer/Java/11_MinNumberInRotatedArray) |
+| 13 | [机器人的运动范围(回溯法)](/剑指offer/Java/13_RobotMove) |
