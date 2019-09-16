@@ -17,3 +17,4 @@
 | 23 | [链表中环的入口结点](/剑指offer/Java/23_EntryNodeInListLoop) |
 | 24 | [反转链表](/剑指offer/Java/24_ReverseList) |
 | 25 | [合并两个有序的链表](/剑指offer/Java/25_MergeSortedLists) |
+| 52 | [两个链表的第一个公共结点](/剑指offer/Java/52_FirstCommonNodesInLists) |
